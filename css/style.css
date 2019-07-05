@@ -576,6 +576,8 @@ body *, html * {
         padding: 20px; }
         .process .process__item .process__item-wrap .process__img {
           margin: 0 16px 0 0; }
+        .process .process__item .process__item-wrap .process__cnt-wrap {
+          width: calc(100% - 86px); }
         .process .process__item .process__item-wrap .process__ttl {
           margin: 0;
           text-align: left;

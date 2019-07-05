@@ -733,6 +733,9 @@ body *, html * {
 				.process__img {
 					margin: 0 16px 0 0;
 				}
+				.process__cnt-wrap {
+					width: calc(100% - 86px);
+				}
 				.process__ttl {
 					margin: 0;
 					text-align: left;
